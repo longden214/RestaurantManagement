@@ -1,0 +1,1 @@
+sqlcmd -E -S LONG-DEN -i CSDLRestaurant.sql
